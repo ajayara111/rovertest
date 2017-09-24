@@ -12,16 +12,16 @@ Solution:
 --------
 As this solution if for the Rover we have the following base parameters 
 
- *Geometry
-		* Boundry condition : the extreme at  which the rover can move 
-		* Rover Direction : The direction for the rover and future steps 
-		* XY coordinates of Rover 
+ 1. Geometry
+		⋅⋅* Boundry condition : the extreme at  which the rover can move 
+		..* Rover Direction : The direction for the rover and future steps 
+		..* XY coordinates of Rover 
 		
- *Exception 
- 		*Just now capturing only input errors 
+ 2.Exception 
+ 		..*Just now capturing only input errors 
  		
- *Basic Rover 
- 	 	* For rover movement 
+ 3. Basic Rover 
+ 	 	..* For rover movement 
  	 	
   *Test
   	Test for regular movement and Exception tests
@@ -34,4 +34,5 @@ Taking care of extremes and movement if rover is at y = 0 dont even test South g
 
 *More robust error handling 
 *More robust error messages
+
 
