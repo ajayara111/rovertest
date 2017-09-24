@@ -33,7 +33,7 @@ As this solution if for the Rover we have the following base parameters
 When I get chance i will build in intelligence in the program 
 Taking care of extremes and movement if rover is at y = 0 dont even test South going it will save intructions and computation,
 
-*More robust error handling 
-*More robust error messages
+* More robust error handling 
+* More robust error messages
 
 
