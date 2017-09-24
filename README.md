@@ -14,17 +14,17 @@ Solution:
 As this solution if for the Rover we have the following base parameters 
 
  1. Geometry
-		⋅⋅* Boundry condition : the extreme at  which the rover can move 
-		..* Rover Direction : The direction for the rover and future steps 
-		..* XY coordinates of Rover 
+		* Boundry condition : the extreme at  which the rover can move 
+		* Rover Direction : The direction for the rover and future steps 
+		* XY coordinates of Rover 
 		
  2.Exception 
- 		..*Just now capturing only input errors 
+ 		*Just now capturing only input errors 
  		
  3. Basic Rover 
- 	 	..* For rover movement 
+ 	 	* For rover movement 
  	 	
-  *Test
+  * Test
   	Test for regular movement and Exception tests
   	
  Future Enhancement
